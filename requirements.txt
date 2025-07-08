@@ -1,0 +1,2 @@
+pika
+python3-dotenv
